@@ -9,10 +9,11 @@ let incr = 10,
 incr++;
 decr--;
 console.log(incr);
-consle.log(decr);
+console.log(decr);
 
 const isChecked = true;
 
 const isClosed = false;
 
-console.logg(isClosed && isChecked);
+console.log(isClosed && isChecked);
+const lol = 13;
